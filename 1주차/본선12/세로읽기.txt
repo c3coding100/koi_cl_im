@@ -1,0 +1,19 @@
+입력 예 
+ABCDE
+abcde
+01234
+FGHIJ
+fghij
+
+출력 예
+Aa0FfBb1GgCc2HhDd3IiEe4Jj
+
+입력 예
+AABCDD
+afzz
+09121
+a8EWg6
+P5h3kx
+
+출력 예   
+Aa0aPAf985Bz1EhCz2W3D1gkD6x
